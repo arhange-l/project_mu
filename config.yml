@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: arhange-l/project_mu
   branch: main
 
 media_folder: "assets/uploads"
